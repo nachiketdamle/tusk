@@ -1,0 +1,49 @@
+2
+1234
+./MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+Stamp : 2
+Stamp: 1234
+./MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+2021-03-05 15:31:03 : 2
+2021-03-05 15:31:03: 1234
+./MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+2021-03-08 15:20:20 : 2
+2021-03-08 15:20:20: 1234
+MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+Path Desktop/Automation doesnot exists
+2021-03-08 15:20:20 : 2
+2021-03-08 15:20:20: 1234
+MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+2021-03-08 15:22:00 : 2
+2021-03-08 15:22:00: 1234
+MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+Path Desktop/Automation doesnot exists
+2021-03-08 15:22:00 : 2
+2021-03-08 15:22:00: 1234
+MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+./masterScript.sh: line 31: Download-Aritfacts: command not found
+2021-03-08 15:22:48 : 2
+2021-03-08 15:22:48: 1234
+MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+Path Desktop/Automation doesnot exists
+2021-03-08 15:22:48 : 2
+2021-03-08 15:22:48: 1234
+MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+./masterScript.sh: line 31: Download-Aritfacts: command not found
+Path Desktop/Automation doesnot exists
+2021-03-08 15:26:00 : 2
+2021-03-08 15:26:00: 1234
+MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+./masterScript.sh: line 31: Download-Aritfacts: command not found
+Path Desktop/Automation doesnot exists
+2021-03-08 15:26:39 : 2
+2021-03-08 15:26:39: 1234
+MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+./masterScript.sh: line 31: Download-Aritfacts: command not found
+Path Desktop/Automation doesnot exists
+2021-03-08 15:26:58 : 2
+2021-03-08 15:26:58: 1234
+MultiCloudUtil.sh: line 369: return: gs://tc_mdaas_bucket/DaaSconfigs/1234/json/daas.json: numeric argument required
+./masterScript.sh: line 31: Download-Aritfacts: command not found
+Path Desktop/Automation doesnot exists
+./masterScript.sh: line 31: Download-Aritfacts: command not found
